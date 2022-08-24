@@ -1,6 +1,6 @@
 # SimuladorRoboTerminalCoppelliaSim
 
-Projeto da disciplina de verificação facial da residência em Robótica e IA aplicados a testes de software da Softex/CIn-UFPE contendo os códigos do simulador CoppelliaSim e a cena com o braço robótico Niryo One, um simulador de terminal de mesário e um simulador da urna eletrônica, compondo assim a parte 2 do projeto.
+Parte 2 do projeto da disciplina de Visão Computacional Aplicada a Testes da residência em Robótica e IA aplicados a testes de software da Softex/CIn-UFPE contendo os códigos de reconhecimento facil.
 
 Para o funcionamento total do projeto, faz-se necessário seguir os seguintes passos:
 
